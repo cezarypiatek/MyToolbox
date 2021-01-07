@@ -7,6 +7,7 @@
 ## DevOps
 - Disk space usage statistics - [WinDirStat](https://windirstat.net/)
 - File browser - [TotalCommander](https://www.ghisler.com/)
+- File search - [Everything](https://www.voidtools.com/)
 - Remote desktop - [mRemoteNG](https://mremoteng.org/download)
 - Comand Line Terminal - [cmder](https://cmder.net/)
 - Kubernetes IDE - [Lens](https://k8slens.dev/)
@@ -33,3 +34,4 @@
 
 ## Other
 - Ebook converter - [Calibre](https://calibre-ebook.com/)
+- Autotyping - [TextExpander](https://textexpander.com/)
