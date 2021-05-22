@@ -17,6 +17,7 @@
 - Git client - [GitFork](https://git-fork.com/)
 - REST Client - [Postman](https://www.postman.com/)
 - Debugging Http requests - [Fiddler](https://www.telerik.com/fiddler)
+- Http server for local development - [dotnet-serve](https://github.com/natemcmaster/dotnet-serve)
 
 ### Programming - .NET
 - Debugging MsBuild - [MSBuild Binary and Structured Log Viewer](https://msbuildlog.com/)
