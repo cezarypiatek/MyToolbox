@@ -32,6 +32,7 @@
 - Changing video speed -  [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
 - Tab and history lookup - [Saka](https://chrome.google.com/webstore/detail/saka/nbdfpcokndmapcollfpjdpjlabnibjdi)
 - Json presenter -  [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- Discarding annoying overlay popups - [Auto Overlay Remover](https://chrome.google.com/webstore/detail/auto-overlay-remover/kefcbonbdcahbihclibfdeeddceiabjm?hl=en)
 
 ## Other
 - Ebook converter - [Calibre](https://calibre-ebook.com/)
