@@ -22,6 +22,7 @@
 ### Programming - .NET
 - Debugging MsBuild - [MSBuild Binary and Structured Log Viewer](https://msbuildlog.com/)
 - Debugging without sources - [dnSpy](https://github.com/dnSpy/dnSpy)
+- Coding assistant - [MappingGenerator](https://marketplace.visualstudio.com/items?itemName=54748ff9-45fc-43c2-8ec5-cf7912bc3b84.mappinggenerator)
 
 ### Programming - SQL
 - Browsing database in MSSMS - [Sql Search](https://www.devart.com/dbforge/sql/search/)
