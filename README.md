@@ -1,7 +1,7 @@
 ## Graphic
 - Screenshots - [ShareX](https://getsharex.com/)
 - Gif recorder - [ScreenToGif](https://www.screentogif.com/)
-- Screencast recorging - [Streamlabs OBS](https://streamlabs.com/)
+- Screencast recording - [Streamlabs OBS](https://streamlabs.com/)
 - Image and Photo Editor - [Paint.NET](https://www.getpaint.net/)
 - Image and Photo Browser - [ACDSee](https://www.acdsee.com/)
 
