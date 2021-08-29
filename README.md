@@ -39,4 +39,4 @@
 
 ## Other
 - Ebook converter - [Calibre](https://calibre-ebook.com/)
-- Autotyping - [TextExpander](https://textexpander.com/)
+- Autotyping - [espanso](https://hub.espanso.org/)
