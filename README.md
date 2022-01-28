@@ -40,3 +40,4 @@
 ## Other
 - Ebook converter - [Calibre](https://calibre-ebook.com/)
 - Autotyping - [espanso](https://hub.espanso.org/)
+- [DevToys](https://github.com/veler/DevToys)
